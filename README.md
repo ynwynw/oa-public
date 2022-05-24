@@ -29,7 +29,7 @@
 
    截图：
 
-   ![](https://github.com/ynwynw/oa-public/tree/master/picture/picture2.png)
+   ![image](https://github.com/ynwynw/oa-public/tree/master/picture/picture2.png)
 
 
 
