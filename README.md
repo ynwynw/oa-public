@@ -33,42 +33,42 @@
 
 
 
-   ![](https://github.com/ynwynw/oa-public/tree/master/picture/picture3.png)
+   ![contents](./picture/picture3.png)
 
 
 
-   ![](https://github.com/ynwynw/oa-public/tree/master/picture/picture4.png)
+   ![](./picture/picture4.png)
 
 
 
-   ![](https://github.com/ynwynw/oa-public/tree/master/picture/picture5.png)
+   ![](./picture/picture5.png)
 
 
 
-   ![](https://github.com/ynwynw/oa-public/tree/master/picture/picture6.png)
+   ![](./picture/picture6.png)
 
 
 
-   ![](https://github.com/ynwynw/oa-public/tree/master/picture/picture7.png)
+   ![](./picture/picture7.png)
 
 
 
-   ![](https://github.com/ynwynw/oa-public/tree/master/picture/picture8.png)
+   ![](./picture/picture8.png)
 
 
 
-   ![](https://github.com/ynwynw/oa-public/tree/master/picture/picture9.png)
+   ![](./picture/picture9.png)
 
 
 
-   ![](https://github.com/ynwynw/oa-public/tree/master/picture/picture10.png)
+   ![](./picture/picture10.png)
       
-   ![](https://github.com/ynwynw/oa-public/tree/master/picture/picture11.png)
+   ![](./picture/picture11.png)
       
-   ![](https://github.com/ynwynw/oa-public/tree/master/picture/picture12.png)
+   ![](./picture/picture12.png)
       
-   ![](https://github.com/ynwynw/oa-public/tree/master/picture/picture13.png)
+   ![](./picture/picture13.png)
 
 
 
-   ![](https://github.com/ynwynw/oa-public/tree/master/picture/picture14.png)
+   ![](./picture/picture14.png)
