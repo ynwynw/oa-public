@@ -2,7 +2,14 @@
 
 **需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
 
-#OA人事管理系统 #java web #java #毕业设计 #课程设计 #mybatis #Springboot  #vue #mysql #源代码
+**博客地址：
+[https://blog.csdn.net/weixin_43927649/article/details/126068927](https://blog.csdn.net/weixin_43927649/article/details/126068927)**
+
+**视频演示：
+[B站视频演示](https://www.bilibili.com/video/BV1Ye411c7VV)**
+
+**毕业设计所有选题地址：
+[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
 ## 基于Springboot的OA人事管理系统(源代码+数据库)
 
