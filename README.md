@@ -20,7 +20,7 @@
 - 员工输入登录账号和密码，登录成功之后，可以对个人信息修改，进行每天上班的签到签退，个人便签管理，也可以查询公司的通讯录可以方便联系到公司所有人。
 
 ## 二、所用技术
-
+111
 - springboot+mybatis+ shiro +mvc + activiti+thymeleaf+quartz
 
 
